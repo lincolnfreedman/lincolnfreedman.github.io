@@ -246,6 +246,27 @@ button.btn, input.btn {
     width: 60%;;
   }
 }
+.embed-responsive {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  max-width: 100%; 
+}
+
+.embed-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+iframe {
+  width: 100%;
+  height: 315px; /* Adjust based on your preferred aspect ratio */
+  display: block;
+  margin: 0 auto;
+}
 
 .content-wrap {
   margin-bottom: 8em;
@@ -283,7 +304,7 @@ button.btn, input.btn {
       }
     }
     .excerpt {
-      width: 80%;
+      width: 100%;
       @include bp-xsmall {
         width: 100%;
       }
@@ -441,3 +462,4 @@ pre {
     .highlight .vg { color: #000000 } /* Name.Variable.Global */
     .highlight .vi { color: #000000 } /* Name.Variable.Instance */
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
+  

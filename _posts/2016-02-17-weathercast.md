@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Neuro Emote Trial'
 date: 2016-02-20 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
+tags: 
+youtube_video_id: 'bFGEPeQN3rs'
+project_link: 'https://lincoln-freedman.itch.io/neuro-emote-trial'
+button_icon: 'gamepad'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'A game takes the player on a journey through some of my favorite Neuro-sama moments as a celebration of her 2 year anniversary, while simulating the experience of messaging in twitch chat.'
 ---
