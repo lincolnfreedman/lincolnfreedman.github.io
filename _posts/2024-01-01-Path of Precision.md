@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Path of Precision'
-date: 2016-02-20 15:56:00
+date: 2024-01-01 12:00:00
 categories: development design
 tags:
 youtube_video_id: '0yLHRKwbCgg'
