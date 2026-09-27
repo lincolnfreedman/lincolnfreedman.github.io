@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hi! I'm Lincoln 👽☂️"
 email: 'lincolMfreedman.com'
-description: "Game Developer, Product Manager, Software Engineer. You can see some of my projects below.
+description: "Game Developer, Project Manager, Software Engineer. You can see some of my projects below.
 
 Reach out at lincolMfreedman@gmail.com"
 baseurl: "" # the subpath of your site, e.g. /blog
